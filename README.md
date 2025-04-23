@@ -2,6 +2,11 @@
 **Nome:** Lucas Dórea  
 **RGM:** 37277782
 
+## Índice
+- [Questões Objetivas](#parte-1-questões-objetivas) (neste arquivo)
+- [Análise de Código](analise_codigo.md)
+- [Questões Subjetivas](questoes_subjetivas.md)
+
 ## Parte 1: Questões Objetivas
 
 ### Questão 1
